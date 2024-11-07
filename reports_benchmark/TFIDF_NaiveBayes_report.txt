@@ -1,0 +1,45 @@
+Accuracy: 0.36361457334611696
+                                                                      precision    recall  f1-score   support
+
+                             Business Email CompromiseEmail Takeover       0.00      0.00      0.00        63
+                                           Cheating by Impersonation       0.00      0.00      0.00       375
+                Child Pornography CPChild Sexual Abuse Material CSAM       0.00      0.00      0.00        88
+                                                Cryptocurrency Fraud       0.00      0.00      0.00       105
+                                   Cyber Bullying  Stalking  Sexting       0.55      0.05      0.09       793
+                                                     Cyber Terrorism       0.00      0.00      0.00        23
+                             Damage to computer computer systems etc       0.00      0.00      0.00        28
+                                                   Data Breach/Theft       0.00      0.00      0.00        92
+                                DebitCredit Card FraudSim Swap Fraud       0.77      0.22      0.34      1903
+                                               DematDepository Fraud       0.00      0.00      0.00       170
+Denial of Service (DoS)/Distributed Denial of Service (DDOS) attacks       0.00      0.00      0.00       105
+                                                      EMail Phishing       0.00      0.00      0.00        29
+                                               EWallet Related Fraud       0.76      0.09      0.15       758
+                                                       Email Hacking       0.00      0.00      0.00        55
+                                           FakeImpersonating Profile       0.00      0.00      0.00       451
+                                                   Fraud CallVishing       0.00      0.00      0.00      1107
+                                                  Hacking/Defacement       0.17      0.41      0.24       108
+                                                 Impersonating Email       0.00      0.00      0.00        11
+                                      Internet Banking Related Fraud       0.58      0.28      0.37      1541
+                                                  Intimidating Email       0.00      0.00      0.00         8
+                                                      Malware Attack       0.00      0.00      0.00       126
+                                            Online Gambling  Betting       0.00      0.00      0.00        79
+                                                    Online Job Fraud       0.00      0.00      0.00       171
+                                            Online Matrimonial Fraud       0.00      0.00      0.00        22
+                                                  Online Trafficking       0.00      0.00      0.00        27
+                                                               Other       0.25      0.27      0.26      2106
+                                      Profile Hacking Identity Theft       0.00      0.00      0.00       388
+                                Provocative Speech for unlawful acts       0.00      0.00      0.00        70
+                                                          Ransomware       0.00      0.00      0.00        13
+                                                   Ransomware Attack       0.13      0.24      0.16       102
+                           RapeGang Rape RGRSexually Abusive Content       0.00      0.00      0.00        65
+                                                       SQL Injection       0.00      0.00      0.00       112
+                                               Sexually Explicit Act       0.00      0.00      0.00       302
+                                           Sexually Obscene material       0.00      0.00      0.00       337
+                            Tampering with computer source documents       0.13      0.35      0.19       106
+                                                  UPI Related Frauds       0.37      0.97      0.53      4588
+                                      Unauthorised AccessData Breach       0.00      0.00      0.00       245
+                                           Website DefacementHacking       0.00      0.00      0.00        16
+
+                                                            accuracy                           0.36     16688
+                                                           macro avg       0.10      0.08      0.06     16688
+                                                        weighted avg       0.34      0.36      0.27     16688

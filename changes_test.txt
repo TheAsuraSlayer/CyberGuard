@@ -1,0 +1,4 @@
+Number of categories copied to subcategories: 2236
+Number of duplicate rows removed: 1943
+Number of rows dropped for having less than 5 words: 1437
+Number of text changes made: 28906
